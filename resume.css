@@ -62,9 +62,11 @@ body {
     }
 }
 
+
 h1 {
     font-size: 6rem;
     line-height: 5.5rem;
+    padding-bottom: 1rem;
     color: darkblue;
   }
 p {
@@ -106,6 +108,7 @@ p {
     color: rgba(255,255,255,0.5);
     border-bottom-color:rgba(255,255,255,0.5);
 }
+
 
 
 
